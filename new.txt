@@ -2,4 +2,5 @@ This is a new text file. Now i am writing something here.
 This changes is in new branch.
 I am practicing git and github.
 Here i add a new line.
-Hello, programmers.hi i am arman
+Hello, programmers.hi i am arman.
+i am writing something to stash
